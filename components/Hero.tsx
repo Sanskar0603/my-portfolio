@@ -54,7 +54,7 @@ export default function Hero() {
   };
 
   return (
-    <section className="relative w-full min-h-screen bg-carbon flex flex-col justify-between overflow-hidden px-6 lg:px-16 pt-32 pb-12 z-10">
+    <section className="relative w-full min-h-screen bg-carbon flex flex-col justify-between overflow-hidden px-6 lg:px-16 pt-[40vh] md:pt-32 pb-12 z-10">
       {/* FULL-BLEED INTERACTIVE BACKGROUND BACKDROP LAYER */}
       <div className="absolute inset-0 w-full h-full z-0 pointer-events-none">
         <video
