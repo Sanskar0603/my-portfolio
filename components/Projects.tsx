@@ -6,6 +6,14 @@ import { useInView } from "framer-motion";
 
 const projects = [
   {
+    title: "School Attendance Management System",
+    category: "Full-Stack Application",
+    description: "A full-stack React (Vite) and Node.js/Express application with a MySQL database. Features secure role-based authentication, email-based password recovery, and full CRUD functionality with strict data integrity safeguards.",
+    tags: ["React", "Node.js", "Express", "MySQL"],
+    github: "https://lnkd.in/dGUfM-pV",
+    live: "https://lnkd.in/dT8HdFuB",
+  },
+  {
     title: "Youtube Clone",
     category: "Video Streaming Platform",
     description: "Built responsive video streaming platform. Improved performance and UI/UX.",
