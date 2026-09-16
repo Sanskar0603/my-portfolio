@@ -62,7 +62,7 @@ const links = [
   {
     title: "Resume / CV",
     subtitle: "Download PDF",
-    url: "https://drive.google.com/file/d/1GkJq_NVMA9wn4rT9aPrhSPZeJpDEjV1s/view?usp=sharing",
+    url: "https://docs.google.com/document/d/1hTBu1E8Zfj3LZ6cSoiIjYAevMoTTxvvE/edit?usp=sharing&ouid=113861422494739208540&rtpof=true&sd=true",
     icon: (
       <svg className="w-5 h-5 text-boneWhite" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
         <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
