@@ -6,6 +6,12 @@ import { useInView } from "framer-motion";
 
 const experiences = [
   {
+    role: "Software Engineer - I",
+    company: "Gupshup",
+    period: "April 2026 – Present",
+    description: "Gaining hands-on experience in enterprise-grade software development, working on WhatsApp Business API integrations within Gupshup's CPaaS platform. Building a strong foundation in scalable backend systems and real-world communication infrastructure that powers conversational engagement for businesses across the globe, while collaborating closely with experienced engineers in a fast-paced product environment.",
+  },
+  {
     role: "Technical Support Engineer",
     company: "Vyapar",
     period: "2025 - 2026",
