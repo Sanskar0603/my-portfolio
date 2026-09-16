@@ -10,8 +10,8 @@ const projects = [
     category: "Full-Stack Application",
     description: "A full-stack React (Vite) and Node.js/Express application with a MySQL database. Features secure role-based authentication, email-based password recovery, and full CRUD functionality with strict data integrity safeguards.",
     tags: ["React", "Node.js", "Express", "MySQL"],
-    github: "https://lnkd.in/dGUfM-pV",
-    live: "https://lnkd.in/dT8HdFuB",
+    github: "https://github.com/Sanskar0603/Edutrack-frontend",
+    live: "https://edutrack-smart-attendance-app.netlify.app/",
   },
   {
     title: "Youtube Clone",
